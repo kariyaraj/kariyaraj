@@ -1,3 +1,4 @@
+<img src="https://www.google.com/imgres?q=programmer%20gif&imgurl=https%3A%2F%2F64.media.tumblr.com%2F2d0af9c90d1b1107313cc20bda01548a%2Ftumblr_outwxnanpp1u79o2lo1_1280.gifv&imgrefurl=https%3A%2F%2Fhappy05dz.tumblr.com%2F&docid=oZKIyglkZ9tG5M&tbnid=4btlE14i2uMBaM&vet=12ahUKEwjI5NqM-92IAxWha_UHHfSdOk0QM3oFCIUBEAA..i&w=768&h=432&hcb=2&ved=2ahUKEwjI5NqM-92IAxWha_UHHfSdOk0QM3oFCIUBEAA"/>
 <h1 align="center">Hi 👋, I'm Raj Kariya</h1>
 <h3 align="center">A passionate AI / ML & DevOps Student.</h3>
 

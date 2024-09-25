@@ -1,7 +1,7 @@
 <img src="https://www.google.com/imgres?q=programmer%20gif&imgurl=https%3A%2F%2F64.media.tumblr.com%2F2d0af9c90d1b1107313cc20bda01548a%2Ftumblr_outwxnanpp1u79o2lo1_1280.gifv&imgrefurl=https%3A%2F%2Fhappy05dz.tumblr.com%2F&docid=oZKIyglkZ9tG5M&tbnid=4btlE14i2uMBaM&vet=12ahUKEwjI5NqM-92IAxWha_UHHfSdOk0QM3oFCIUBEAA..i&w=768&h=432&hcb=2&ved=2ahUKEwjI5NqM-92IAxWha_UHHfSdOk0QM3oFCIUBEAA"/>
 <h1 align="center">Hi 👋, I'm Raj Kariya</h1>
 <h3 align="center">A passionate AI / ML & DevOps Student.</h3>
-
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kariyaraj&label=Profile%20views&color=0e75b6&style=flat" alt="kariyaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariyaraj" alt="kariyaraj" /></a> </p>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Kariya</h1>
 <h3 align="center">A passionate AI / ML & DevOps Student.</h3>
-
+<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Terraform , ANSIBLE , NextJS**

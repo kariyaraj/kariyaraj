@@ -1,6 +1,8 @@
 # Hi there, I'm Raj Kariya 👋
 
-## Full Stack Software Developer | AI/ML Explorer | Cloud Infrastructure Enthusiast
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## Full Stack Software Developer | AI/ML Engineer | Cloud Infrastructure Specialist
 
 I build scalable, production-grade applications with a focus on AI-driven systems and cloud-native architecture. Currently developing next-generation eCommerce automation platforms and AI-powered solutions.
 

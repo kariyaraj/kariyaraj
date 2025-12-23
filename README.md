@@ -4,13 +4,13 @@
 <img align="right"  alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform , ANSIBLE , NextJS**
+- 🌱 I’m currently learning **Terraform , ANSIBLE **
 
-- 👨‍💻 My portfolio website [https://rajkariya.study](https://rajkariya.study)
+- 👨‍💻 My portfolio website [https://rajkariya.com](https://rajkariya.com)
 
 - 💬 Ask me about **AWS , GCP , Docker, Kubernetes , C++ , React**
 
-- 📫 How to reach me **rajkariya2189@gmail.com**
+- 📫 How to reach me **kariyaraj40@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
 
